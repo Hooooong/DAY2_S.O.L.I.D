@@ -1,6 +1,6 @@
 S.O.L.I.D(OOP 설계 원칙)
 =======================================================
-> [__S.O.L.I.D__](https://github.com/Hooooong/Android-School/blob/master/java/Solid/pdf/004_Class%EC%99%80Object%EC%97%90%EB%8C%80%ED%95%9C%EC%9D%B4%ED%95%B4.pdf) 란 Object Oriented Programming 의 약자로 객체지향 프로그래밍이라 한다. 여기서 객체 지향이라 함은 앞에서 정의된 Object로 프로그램을 설계 할 때 속성과, 기능이 묶인 하나의 객체(Class) 단위로 만드는 것을 말한다.
+> [__S.O.L.I.D__](https://github.com/Hooooong/DAY2_S.O.L.I.D/blob/master/pdf/004_Class%EC%99%80Object%EC%97%90%EB%8C%80%ED%95%9C%EC%9D%B4%ED%95%B4.pdf) 란 Object Oriented Programming 의 약자로 객체지향 프로그래밍이라 한다. 여기서 객체 지향이라 함은 앞에서 정의된 Object로 프로그램을 설계 할 때 속성과, 기능이 묶인 하나의 객체(Class) 단위로 만드는 것을 말한다.
 
 ### 1 . S(SRP, Single responsibility principle, 단일책임원칙)
 > 하나의 클래스는 하나의 책임만 가져야 한다.
